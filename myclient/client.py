@@ -1,6 +1,6 @@
 import requests
 
-BASE_URL = "http://127.0.0.1:8000/api/"
+BASE_URL = "https://sc23zxt.pythonanywhere.com/api/"
 
 def register():
     username = input("Enter a username: ")
